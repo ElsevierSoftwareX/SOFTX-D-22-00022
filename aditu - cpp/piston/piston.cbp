@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="piston" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/piston" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/piston" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../erkideak/ObjektuAurre.cpp" />
+		<Unit filename="../erkideak/ObjektuAurre.h" />
+		<Unit filename="../erkideak/ObjektuPost.cpp" />
+		<Unit filename="../erkideak/ObjektuPost.h" />
+		<Unit filename="../erkideak/eragiketak.cpp" />
+		<Unit filename="../erkideak/eragiketak.h" />
+		<Unit filename="../erkideak/ffinserie.cpp" />
+		<Unit filename="../erkideak/ffinserie.h" />
+		<Unit filename="../erkideak/finfserie.cpp" />
+		<Unit filename="../erkideak/finfserie.h" />
+		<Unit filename="piston.cpp" />
+		<Unit filename="pistonff.cpp" />
+		<Unit filename="pistonff.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

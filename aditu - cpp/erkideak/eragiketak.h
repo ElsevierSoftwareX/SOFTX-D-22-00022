@@ -1,0 +1,1 @@
+double faktorial (int n);

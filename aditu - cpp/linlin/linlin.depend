@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1558683831 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\elasserie.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<complex>
+	"elasserie.h"
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1549448232 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\elasserie.h
+	<vector>
+	<complex>
+
+1495470196 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.h
+
+1558949688 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\linlin\wsquare.cpp
+	<iomanip>
+	<sstream>
+	<vector>
+	<math.h>
+
+1495470195 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.cpp
+
+1558947362 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\linlin\linlin.cpp
+	<iomanip>
+	<sstream>
+	<math.h>
+	<complex>
+	"../erkideak/elasserie.h"
+	"wsquare.h"
+	"../erkideak/ObjektuPuntu.h"
+	"../erkideak/ObjektuAdi.h"
+	"../erkideak/postmsh.h"
+
+1558943954 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\linlin\wsquare.h
+	<vector>
+
+1549629916 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupuntu.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1540814536 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuadi.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1557733211 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\postmsh.h
+	<vector>
+
+1541159561 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuadi.cpp
+	"ObjektuAdi.h"
+	<sstream>
+	<math.h>
+
+1547718657 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupuntu.cpp
+	"ObjektuPuntu.h"
+	<sstream>
+	<math.h>
+
+1557734598 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\postmsh.cpp
+	<iomanip>
+	<sstream>
+	<math.h>
+	<complex>
+	"../erkideak/ObjektuPuntu.h"
+	"../erkideak/postmsh.h"
+

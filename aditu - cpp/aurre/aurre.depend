@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1495470195 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.cpp
+
+1568792745 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\ffinserie.cpp
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1495470196 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.h
+
+1568792710 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\finfserie.cpp
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1526893913 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuaurre.cpp
+	"ObjektuAurre.h"
+	<sstream>
+	<math.h>
+
+1520244908 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuaurre.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1568629259 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\aurre.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cmath>
+	<vector>
+	<complex>
+	"../erkideak/FourTrans.h"
+	"../erkideak/ObjektuPuntu.h"
+	"doiketa.h"
+	"kaminlu.h"
+	"siskalk.h"
+	"../scattering/neumann.h"
+
+1568625514 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\kaminlu.h
+	<vector>
+	<complex>
+
+1568630176 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\kaminlu.cpp
+	<iostream>
+	<iomanip>
+	<complex>
+	<vector>
+	"kaminlu.h"
+
+1526893135 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\scattering\neumann.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1511771868 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\scattering\scattered.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1526886870 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\scattering\neumann.h
+	<vector>
+	<complex>
+
+1548759161 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\ffinserie.h
+	<vector>
+	<complex>
+
+1548842842 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\finfserie.h
+	<vector>
+	<complex>
+
+1517823792 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\fourtrans.cpp
+	"FourTrans.h"
+	<sstream>
+	<math.h>
+	<complex>
+
+1517398073 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\fourtrans.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1563525571 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\elasserie.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<complex>
+	"elasserie.h"
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1549448232 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\elasserie.h
+	<vector>
+	<complex>
+
+1531207453 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\doiketa.h
+	<vector>
+	<complex>
+	"ObjektuPuntu.h"
+
+1561632017 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\doiketa.cpp
+	<iostream>
+	"doiketa.h"
+	"../erkideak/ObjektuPuntu.h"
+	<complex>
+	<vector>
+
+1521808355 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\ordezpenak.h
+	<vector>
+	<complex>
+
+1524749054 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\ordezpenak.cpp
+	<iostream>
+	<vector>
+	"ordezpenak.h"
+	<complex>
+
+1539590955 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektunodo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1540370591 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektunodo.cpp
+	"ObjektuNodo.h"
+	<sstream>
+	<math.h>
+
+1562578193 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupuntu.cpp
+	"ObjektuPuntu.h"
+	<sstream>
+	<math.h>
+
+1562320542 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupuntu.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1548756261 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\scattering\neumann.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1548756863 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\scattering\neumann.h
+	<vector>
+	<complex>
+
+1544012275 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\hondarkalk.h
+	<vector>
+	<complex>
+
+1548843554 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\siskalk.h
+	<vector>
+	<complex>
+	"../erkideak/FourTrans.h"
+	"../erkideak/elasserie.h"
+	"../erkideak/ffinserie.h"
+	"../erkideak/finfserie.h"
+	"../erkideak/ObjektuPuntu.h"
+
+1568618594 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\siskalk.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<complex>
+	<vector>
+	"siskalk.h"
+	"../erkideak/FourTrans.h"
+	"../erkideak/elasserie.h"
+	"../erkideak/oskoserie.h"
+	"../erkideak/ffinserie.h"
+	"../erkideak/finfserie.h"
+	"../scattering/neumann.h"
+
+1555406973 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\craig.h
+	<vector>
+	<complex>
+
+1555488457 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\craig.cpp
+	<iostream>
+	<iomanip>
+	<complex>
+	<vector>
+	"craig.h"
+
+1568626073 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\pcgnorm.h
+	<vector>
+	<complex>
+
+1558951167 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\aurre\pcgnorm.cpp
+	<iostream>
+	<iomanip>
+	<complex>
+	<vector>
+	"pcgnorm.h"
+
+1563264629 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\oskoserie.cpp
+	<vector>
+	<complex>
+
+1562571844 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\oskoserie.h
+	<vector>
+	<complex>
+

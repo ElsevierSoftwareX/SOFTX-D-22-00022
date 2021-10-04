@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544685480 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\sareak\sareak.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<math.h>
+	<random>
+

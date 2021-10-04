@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1495466595 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.cpp
+
+1546861047 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\ffinserie.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1495466596 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.h
+
+1546861060 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\finfserie.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1526558473 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuaurre.cpp
+	"ObjektuAurre.h"
+	<sstream>
+	<math.h>
+
+1520244908 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuaurre.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1511167068 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupost.cpp
+	"ObjektuPost.h"
+	<sstream>
+	<math.h>
+	<complex>
+
+1496654881 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupost.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1546859441 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\ncheck\ncheck.cpp
+	<iomanip>
+	<sstream>
+	<math.h>
+	<complex>
+	"../erkideak/ffinserie.h"
+	"../erkideak/finfserie.h"
+	"../erkideak/ObjektuPuntu.h"
+	"../erkideak/ObjektuAdi.h"
+	"../scattering/neumann.h"
+
+1546847599 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\ffinserie.h
+	<vector>
+	<complex>
+
+1546847618 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\finfserie.h
+	<vector>
+	<complex>
+
+1526559588 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuplot.cpp
+	"ObjektuPlot.h"
+	<sstream>
+	<math.h>
+
+1526559627 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuplot.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1539594555 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektunodo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1530693812 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektunodo.cpp
+	"ObjektuNodo.h"
+	<sstream>
+	<math.h>
+
+1544515056 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupuntu.cpp
+	"ObjektuPuntu.h"
+	<sstream>
+	<math.h>
+
+1542796637 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupuntu.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1526893135 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\scattering\neumann.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1530516582 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\scattering\neumann.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1530515250 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\scattering\neumann.h
+	<vector>
+	<complex>
+
+1540810936 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuadi.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1541155961 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuadi.cpp
+	"ObjektuAdi.h"
+	<sstream>
+	<math.h>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ondoren" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ondoren" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ondoren" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../erkideak/ObjektuAdi.cpp" />
+		<Unit filename="../erkideak/ObjektuAdi.h" />
+		<Unit filename="../erkideak/ObjektuPuntu.cpp" />
+		<Unit filename="../erkideak/ObjektuPuntu.h" />
+		<Unit filename="../erkideak/elasserie.cpp" />
+		<Unit filename="../erkideak/elasserie.h" />
+		<Unit filename="../erkideak/eragiketak.cpp" />
+		<Unit filename="../erkideak/eragiketak.h" />
+		<Unit filename="../erkideak/ffinserie.cpp" />
+		<Unit filename="../erkideak/ffinserie.h" />
+		<Unit filename="../erkideak/finfserie.cpp" />
+		<Unit filename="../erkideak/finfserie.h" />
+		<Unit filename="../erkideak/postmsh.cpp" />
+		<Unit filename="../erkideak/postmsh.h" />
+		<Unit filename="ondoren.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

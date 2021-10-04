@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1495466595 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.cpp
+
+1512372061 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\ffinserie.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1495466596 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\eragiketak.h
+
+1513242560 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\finfserie.cpp
+	<iostream>
+	<vector>
+	<complex>
+	"eragiketak.h"
+	<gsl/gsl_sf_legendre.h>
+	<gsl/gsl_sf_bessel.h>
+
+1511163447 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuaurre.cpp
+	"ObjektuAurre.h"
+	<sstream>
+	<math.h>
+
+1509703620 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektuaurre.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1511163468 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupost.cpp
+	"ObjektuPost.h"
+	<sstream>
+	<math.h>
+	<complex>
+
+1496651281 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\objektupost.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<complex>
+
+1512984873 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\piston\piston.cpp
+	<iomanip>
+	<sstream>
+	<math.h>
+	<complex>
+	"../erkideak/ffinserie.h"
+	"../erkideak/finfserie.h"
+	"../erkideak/ObjektuAurre.h"
+	"../erkideak/ObjektuPost.h"
+	"pistonff.h"
+
+1507621743 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\piston\pistonff.h
+	<vector>
+	<complex>
+
+1512122493 source:c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\piston\pistonff.cpp
+	<iostream>
+	<vector>
+	<complex>
+	<boost/math/special_functions/bessel.hpp>
+
+1511162928 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\ffinserie.h
+	<vector>
+	<complex>
+
+1511162928 c:\users\mapgazug\documents\proiektuak\c++\proiektuak\aditu\erkideak\finfserie.h
+	<vector>
+	<complex>
+

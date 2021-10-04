@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Gorka Garate.
 - 👀 I’m interested in mathematical modeling, applications of computational intelligence to robotic systems, image processing and numerical methods.
 - 🌱 I’m PhD Professor from University of the Basque Country UPV/EHU
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gorka.garate@ehu.eus
